@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import { config, createSchema } from '@keystone-next/keystone/schema';
 import 'dotenv/config';
 
